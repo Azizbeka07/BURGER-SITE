@@ -1,0 +1,17 @@
+@import url(./font.css);
+
+:root {
+    --green: #69cf17;
+    --R-Black: "Raleway-Black";
+    --R-Bold: "Raleway-Bold";
+    --R-Regular: "Raleway-Regular";
+    --R-Thin: "Raleway-Thin";
+    --Roboto-Bold: "Roboto-Bold";
+    --Roboto-Regular: "Roboto-Regular";
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
